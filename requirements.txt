@@ -8,3 +8,4 @@ apscheduler
 requests
 psutil
 pyromod
+aiohttp<=3.8.1
